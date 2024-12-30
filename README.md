@@ -48,7 +48,7 @@ detectnet --model=models/bottles/ssd-mobilenet.onnx --labels=models/bottles/labe
 
 ## ✒️Authors
 
-- [Mehardeep Singh](https://github.com/PurpleBooth)
+- [Mehardeep Singh](https://www.linkedin.com/in/mehardeep-singh-sandhu-92a42a21a/)
 - [Prabhav Pandey](https://github.com/PrabhavPandey)
 
 - [Prof. Aakash Sinha (Mentor)](https://www.linkedin.com/in/aakashsinha/)
