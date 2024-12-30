@@ -2,7 +2,7 @@
 ![banner](https://i.postimg.cc/h43rKzPC/banner.png)
 ## 💡About The Project
 
-![working demo]()
+![working demo](https://github.com/PrabhavPandey/custom-jetson-object-classifier/blob/main/demo.gif)
 
 Real-time defect detection system for bottle manufacturing quality control implemented on NVIDIA Jetson Nano. Uses MobileNet-SSD model custom trained on 172 images.
 
